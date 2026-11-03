@@ -1,16 +1,25 @@
-## Hi there 👋
+# Hi, I'm Trival Votaroma Waruwu 👋
 
-<!--
-**Trivalwaruwu/Trivalwaruwu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Information Systems Student at Universitas Pamulang
 
-Here are some ideas to get you started:
+💻 I'm interested in Web Development and Mobile App Development.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### About Me
+- Currently studying Information Systems at Universitas Pamulang.
+- Interested in Full-Stack Web Development and Mobile Development.
+- Continuously learning and improving my programming skills.
+- Open to internship opportunities in 2027.
+
+### Tech Stack
+- **Programming:** PHP, Dart, SQL
+- **Web Development:** Laravel, HTML, CSS, JavaScript
+- **Mobile Development:** Flutter
+- **Database:** MySQL, SQLite
+- **Tools:** Git, GitHub, Visual Studio Code
+
+### Connect With Me
+- **LinkedIn:** https://www.linkedin.com/in/trival-votaroma-waruwu-b3b28043b/
+- **GitHub:** https://github.com/Trivalwaruwu
+
+---
+*Always learning, building, and improving.* 🚀
