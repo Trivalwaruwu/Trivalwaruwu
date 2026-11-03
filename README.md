@@ -18,7 +18,7 @@
 - **Tools:** Git, GitHub, Visual Studio Code
 
 ### Connect With Me
-- **LinkedIn:** https://www.linkedin.com/in/trival-votaroma-waruwu-b3b28043b/
+- **LinkedIn:** https://www.linkedin.com/in/trivalvotaromawaruwu/
 - **GitHub:** https://github.com/Trivalwaruwu
 
 ---
